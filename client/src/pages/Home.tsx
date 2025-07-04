@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import { BackgroundBeamsWithCollision } from "@/components/ui/background-beams-with-collision";
 import { LayoutGrid } from "@/components/ui/layout-grid";
 
